@@ -5,6 +5,7 @@ h1{
 
 body{
   text-align: center;
+  background-color: #D2B48C;
 }
 
 
@@ -20,6 +21,7 @@ img{
 }
 
 table{
+  text-align: center;
   width: 1000px;
   height: 1000px;
 }
