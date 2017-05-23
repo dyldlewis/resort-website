@@ -10,4 +10,12 @@ body{
 
 ul{
   font-weight: bold;
+  list-style-type: none;
+}
+
+
+img{
+  width: 800px;
+  height: 500px;
+
 }
